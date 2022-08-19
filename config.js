@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '服务器状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,16 +18,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '官网',
+      url: 'https://www.ziyueyoushang.com/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '皮肤站',
+      url: 'https://skin.ziyueyoushang.com'
     },
   ],
 };
